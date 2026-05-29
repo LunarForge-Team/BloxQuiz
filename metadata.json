@@ -1,0 +1,6 @@
+{
+  "name": "BloxQuiz",
+  "description": "Увлекательная викторина по плейсам Roblox с личным кабинетом на русском и английском языках.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
